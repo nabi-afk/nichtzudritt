@@ -3,7 +3,7 @@ title: Was hat der NSU-Komplex mit Antisemitismus zu tun und warum wird das so s
 tags: rassismus
 infos:
   - text: "(K)Eine gespaltene Wahrnehmung: Antisemitismus und der NSU (NSU Watch)"
-    url: https://www.nsu-watch.info/2018/09/keine-gespaltene-wahrnehmung-antisemitismus-und-der-nsu/
+    url: https://cryptpad.fr/pad/#/3/pad/edit/50c77bb5bc923b85116e778bd180b8d4/
   - text: Der Antisemitismus des NSU – Sichtbarmachung und Verortung im Kontext rassismus- und antisemitismuskritischer Bildungsarbeit (Belltower)
     url: https://www.belltower.news/der-antisemitismus-des-nsu-sichtbarmachung-und-verortung-im-kontext-rassismus-und-antisemitismuskritischer-bildungsarbeit-47978/
   - text: "Le_rstellen im NSU-Komplex: Geschlecht, Rassismus, Antisemitismus (PDF, Amadeu Antonio Stiftung)"
